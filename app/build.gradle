@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.example.singleuser'; compileSdk 35
+    defaultConfig { applicationId 'com.example.singleuser'; minSdk 31; targetSdk 31; versionCode 1; versionName '1.0' }
+}

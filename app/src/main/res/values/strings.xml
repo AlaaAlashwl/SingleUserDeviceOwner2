@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Single User Lock</string>
+    <string name="admin_description">Prevents creation of additional Android users.</string>
+</resources>
